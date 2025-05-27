@@ -1,6 +1,6 @@
 #  Mean and variance of a discrete  distribution
-Name:Pranav Bhargav M
-Reg No:212224040239
+# Name:Pranav Bhargav M
+# Reg No:212224040239
 
 # Aim : 
 
